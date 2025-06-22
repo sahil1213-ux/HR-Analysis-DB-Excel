@@ -7,8 +7,8 @@ from openpyxl import load_workbook
 from datetime import datetime
 
 # === Constants ===
-EXCEL_TEMPLATE_PATH = "template/sales_template.xlsx"
-INPUT_CSV_PATH = "data/data.csv"
+EXCEL_TEMPLATE_PATH = "template_excel.xlsx"
+INPUT_CSV_PATH = "data.csv"
 OUTPUT_DIR = "output"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
