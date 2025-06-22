@@ -5,7 +5,9 @@ PeopleBridge Solutions, a mid-sized HR consulting firm, lacked centralized visib
 The HR dashboard aggregates and visualizes data from several departments within the organization to provide a comprehensive summary of critical HR KPIs, allowing for improved decision-making.
 
 ## Dashboard Overview
-HR dashboards allow teams to get a bird’s-eye view of their people operations while also delving deeper into how specific data points correlate. As a result, HR dashboards make it easier for HR professionals to recognize patterns and build proactive people strategies around them, as well as swiftly discover insights that will improve recruiting, optimize workplace management, and boost employee performance.
+- Faced fragmented HR data across departments, limiting PeopleBridge’s ability to assess workforce composition and make informed policy decisions.
+- Consolidated and cleaned employee datasets using Excel Power Query and developed an interactive dashboard showcasing key metrics like department-wise strength, education-level breakdowns, salary distribution, and promotion eligibility.
+- Empowered HR leadership with actionable insights, improving workforce planning and helping reduce turnover by aligning policies with employee trends and performance indicators.
 
 ## Dataset Used
 - The dataset is in CSV format, and it is cleaned and processed for analysis with the help of Microsoft Excel's built-in feature Power Query.
