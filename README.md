@@ -4,7 +4,7 @@
 PeopleBridge Solutions, a mid-sized HR consulting firm, lacked centralized visibility into employee demographics, departmental distribution, and promotion criteria. As a result, their HR team struggled to identify workforce trends and build effective, data-backed strategies for talent retention, performance evaluation, and equitable compensation.
 The HR dashboard aggregates and visualizes data from several departments within the organization to provide a comprehensive summary of critical HR KPIs, allowing for improved decision-making.
 
-## Dashboard Overview
+## Project Overview
 - Faced fragmented HR data across departments, limiting PeopleBridge’s ability to assess workforce composition and make informed policy decisions.
 - Consolidated and cleaned employee datasets using Excel Power Query and developed an interactive dashboard showcasing key metrics like department-wise strength, education-level breakdowns, salary distribution, and promotion eligibility.
 - Empowered HR leadership with actionable insights, improving workforce planning and helping reduce turnover by aligning policies with employee trends and performance indicators.
